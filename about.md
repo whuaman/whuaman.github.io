@@ -3,16 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
-Mais informação:
 
-[linkedin](https://br.linkedin.com/in/william-huaman-338b6b44)
+My works as a designer: [Behance](https://www.behance.net/whuaman)
 
-[soundcloud](https://soundcloud.com/wik)
+My curriculum online: [Linkedin](https://br.linkedin.com/in/william-huaman-338b6b44)
 
-[Behance](https://www.behance.net/whuaman)
+In my freetime [Soundcloud](https://soundcloud.com/wik)
+
+My collection: [Pinterest](https://br.pinterest.com/whuaman/)
+
+Some videos: [Vimeo](https://vimeo.com/user10958932/videos)
 
 Github {% include icon-github.html username="whuaman" %}
 
 Keep on touch
+
+willdebuena@gmail.com
 
 
