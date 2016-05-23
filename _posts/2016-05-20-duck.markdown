@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "DuckDuckGo"
+date:   2016-05-20 18:09:03 -0300
+categories: jekyll update
+---
+
+## Por que usar o [DuckDuckGo]?
+
+### Real privacidade 
+
+ O site realiza buscas anônimas: ele não deixa cookies no seu navegador, nem mesmo permite fazer login – tudo para manter sua privacidade. O [DuckDuckGo]  é o único mecanismo de busca que promete não rastrear os usuários
+
+### Usabilidade
+
+Destaque do site oficial da palavra-chave pesquisada. Os resultados têm rolagem infinita e há opções de temas para quem não curte o padrão. Você pode alterar as configurações que  permitem formatar a página nos mínimos detalhes, de cores à tipografia.  
+
+Usa cerca de 50 fontes – incluindo Bing, Yahoo! e Wolfram Alpha -, você vai conseguir resultados similares aos oferecidos pelo Google.
+
+### Password
+
+O [DuckDuckGo] gera uma senha de quantos caracteres você quiser. Comando “password 8 strong“.
+
+### Bang
+
+Você pode redirecionar sua busca para sites específicos ao adicionar códigos como “!amazon” “!facebook” “!google” e mais.  Adicione “!g” e o [DuckDuckGo] fará uma busca criptografada (leia: anônima) no Google para você.
+
+### Criação
+
+[DuckDuckGo] é uma criação de Gabriel Weinberg, e, antes do vazamento do escândalo da vigilância do PRISM no mês passado, era apenas um bebê. Mas quando o mundo ficou sabendo do PRISM e o “acesso direto” do governo dos EUA a servidores de empresas como o Google, Weinberg e companhia observaram o tráfego subir.
+
+### PRISM
+
+É  uma colaboração secreta entre a Agência de Segurança Nacional dos Estados Unidos (NSA), FBI e quase todas as empresas de tecnologia que você confia diariamente. O PRISM forneceu ao governo dos Estados Unidos acesso sem precedentes às suas informações pessoais há pelo menos seis anos.
+
+### O Google não é a única opção para busca
+
+O Google coleta e armazena muitos dos seus dados e compartilha seus dados com o governo dos Estados Unidos sem o seu conhecimento nem consenso.
+
+### Dilema
+
+É impossível negar que há uma perda na qualidade dos resultados. O [DuckDuckGo] é ótimo, mas ao abdicar do monitoramento dos usuários, ele perde em personalização e isso sem dúvida afeta os resultados. É, afinal, o dilema da privacidade vs. comodidade em ação.
+
+
+[DuckDuckGo]: https://duckduckgo.com/
