@@ -14,6 +14,8 @@ My collection: [Pinterest](https://br.pinterest.com/whuaman/)
 
 Some videos: [Vimeo](https://vimeo.com/user10958932/videos)
 
+Medium recommended: [Medium](https://medium.com/@huaman/has-recommended)
+
 Github {% include icon-github.html username="whuaman" %}
 
 Keep on touch
