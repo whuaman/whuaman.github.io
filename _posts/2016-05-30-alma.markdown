@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Alma"
+date:   2016-05-20 18:09:03 -0300
+categories: jekyll update
+---
+
+## Atacama Large Millimeter Array [ALMA]
+
+A maior rede de telescópios do mundo, [ALMA]
+
+lista de observatorios do brasil (https://pt.wikipedia.org/wiki/Lista_de_observat%C3%B3rios_astron%C3%B4micos_do_Brasil#S.C3.A3o_Paulo)
+
+[ALMA]: http://veja.abril.com.br/ciencia/maior-projeto-astronomico-do-mundo-observatorio-alma-e-inaugurado-no-chile/
