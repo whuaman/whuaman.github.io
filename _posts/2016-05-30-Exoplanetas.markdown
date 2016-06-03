@@ -7,11 +7,8 @@ categories: jekyll update
 
 ## Sistemas de Exoplanetas
 
-### Real privacidade 
-
 Exoplaneta é um planeta que orbita uma estrela que não seja o Sol, pertencendo 
 a um sistema planetário diferente do nosso.
+Vários já foram encontrados pelo Kepler, segue alguns: 
 
-Segue alguns: Kepler- 223
-
-[DuckDuckGo]: https://duckduckgo.com/
+Kepler- 223
