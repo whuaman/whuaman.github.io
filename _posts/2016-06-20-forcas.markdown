@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "4 forças do Universo"
+date:   2016-06-17 11:09:03 -0300
+categories: jekyll update
+---
+ 
+O Universo é governado por quatro forças fundamentais: a gravitacional, a eletromagnética, a nuclear fraca e a nuclear forte.
+
+# Gravitacional
+
+- O seu alcance é infinito, considerada importante quando se fala de massas enormes como planetas, estrelas, etc.
+
+- Atua universalmente em toda matéria e energia.
+
+- Devido ao seu longo alcance, e da propriedade de depender somente da massa dos objetos e independente de sua carga etc., a maioria das interações entre objetos separados por escala de distância maiores que de um planeta, por exemplo, são predominantemente devidas à gravidade.
+
+- Devido ao seu longo alcance, a gravidade é responsável por fenômenos de larga-escala como galáxias, buracos negros e a hipotética expansão do universo, como também os mais elementares fenômenos astronômicos como a órbita dos planetas, e a experiências do dia a dia com a queda de objetos.
+
+# Eletromagnética
+
+- Alcance infinito mas ao contrário da gravitacional , a força electromagnética  é muito mais intensa sendo um centésimo mais fraca que a nuclear forte.
+
+- é a força que atua entre partículas carregadas.
+
+# Forte
+
+- A força nuclear forte é a força que mantêm a coesão nuclear, que mantêm os átomos unidos. A Força Nuclear Forte e a Fraca possuem um alcance muito pequeno que só se verifica a nível atômico. 
+
+# Força nuclear fraca
+
+- A força nuclear fraca é responsável por alguns fenômenos na escala do núcleo atômico, tais como o decaimento beta.
+
+![forcas](http://4.bp.blogspot.com/-0zEwAURZPGM/U1VMwJL8-uI/AAAAAAAAGIs/gYe2sCbaWDI/s1600/4+For%C3%A7as+Fundamentais.jpg) 
